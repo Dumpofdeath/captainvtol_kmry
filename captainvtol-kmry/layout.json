@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/captainvtol-kmry/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399161780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132432325479451195
+    },
+    {
+      "path": "scenery/world/scenery/AIRPORT-KMRY-POLY.BGL",
+      "size": 2625,
+      "date": 132431541542468249
+    },
+    {
+      "path": "scenery/world/scenery/airport-kmry.bgl",
+      "size": 134522,
+      "date": 132432667668778442
+    }
+  ]
+}
