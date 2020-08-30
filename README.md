@@ -3,7 +3,7 @@ KMRY Monterey Regional Airport for MSFS
 
 Created by: CaptainVTOL
 
-KMRY Monterey Regional Airport is a regional airport located in Monterey, California. The aiport is serviced by Allegiant Air, American Eagle, and United Express, as well as Alask Airlines in 2021. 
+KMRY Monterey Regional Airport is a regional airport located in Monterey, California. The airport is serviced by Allegiant Air, American Eagle, and United Express, as well as Alask Airlines in 2021. KMRY is also part of the Western Expansion of the PilotEdge ATC service.
 
 The AI-generated KMRY had several issues, such as missing buildings, mountainous taxiways, and a general lack of life. As such, I decided to make my own take on it for use in MSFS.
 
