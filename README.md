@@ -7,7 +7,7 @@ KMRY Monterey Regional Airport is a regional airport located in Monterey, Califo
 
 The AI-generated KMRY had several issues, such as missing buildings, mountainous taxiways, and a general lack of life. As such, I decided to make my own take on it for use in MSFS.
 
-This airport is free to use and always will be, no matter what additional edits I make. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
+This airport is free to use and always will be, no matter what additional edits I make. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport. Please do NOT upload elsewhere without my permission. In order to ensure that people get the best quality freeware, I'm handling releases in a very particular way to ensure that it's easiest for me to manage hotfixes. Once a period of time has past (a day or two), I'll begin uploading to other sites.
 
 Current version: v1.0 
 Image previews here: https://imgur.com/a/M4NDIwh
